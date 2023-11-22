@@ -1,0 +1,45 @@
+
+{
+    "preguntas": [
+      {
+        "enunciado": "¿Quien Gano el Mundial de Futbol Pasado?",
+        "respuesta": "Argentina"
+      },
+      {
+        "enunciado": "¿Cuántos planetas hay en nuestro sistema solar?",
+        "respuesta": "8"
+      },
+      {
+        "enunciado": "¿Quien es el Presidente de Venezuela?",
+        "respuesta": "Nicolas Maduro"
+      },
+      {
+        "enunciado": "¿en que año murio Diego Armando Maradona?",
+        "respuesta": "2020"
+      },
+
+      {
+        "enunciado": "¿En que continente se ecuentra Egipto?",
+        "respuesta": "Africa"
+      },  
+
+      {
+        "enunciado": "¿Cuentos segundos ahi en una hora? ",
+        "respuesta": "3600"
+      },  
+
+      {
+        "enunciado": "¿Cual es la Capital de Canada? ",
+        "respuesta": "Toronto"
+      }
+
+
+
+
+
+
+
+
+    ]
+  }
+  
